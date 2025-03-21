@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1f146640-5e32-4b8f-9193-a0a8ed6b5770
+:END:
+#+title: eye-patching
+#+filetags: :zygoat:ascended:
+* Configuration
+:PROPERTIES:
+:Target_Eye: Left
+:Start_Date: [2025-03-11 Tue]
+:END:
+* [2025-03-11 Tue]
+- Time: 13:50 - 15:20
+- Duration: 120 minutes
+- Patched eye: Left
+- Notes: Mild Strain after 30 mins
+- Activities during patching: Computer Work

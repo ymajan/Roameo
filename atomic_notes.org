@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1b99e2b1-ecd3-4373-9b43-d9972ca0ed2c
+:END:
+#+title: atomic-notes
+#+filetags: :zygoat:
+* notes should be atomic
+** [[https://jethrokuan.github.io/org-roam-guide/#:~:text=Zettels%20should%20be%20Atomic%20A%20large%20part,A%20good%20signal%20is%20naming%20your%20zettels.][Jethro Kuan on why notes should be atomic]]
+understanding is ability to break complex matter into simple concepts linked together
+if you can't do that yet, you haven't digested the matter fully yet
