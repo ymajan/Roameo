@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f56be17c-8782-407b-aa2b-5c09e77fbf8e
+:END:
+#+title: 2025-03-22
+* started my org-roam public repo today

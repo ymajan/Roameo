@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       211b4211-8e00-4735-b79e-c933f3d04af2
+:ROAM_REFS: @gelcaPutnam2017
+:END:
+#+title: Gelca, Răzvan and Andreescu, Titu, Putnam and Beyond
+#+filetags: :zygoat:zotero: Math:Problem-Solving:Putnam:
+#+url: http://link.springer.com/10.1007/978-3-319-58988-6
+* PUTNAM AND BEYOND
+:PROPERTIES:
+:NOTER_DOCUMENT: /Users/ymajan/Documents/Codex/zotero/Gelca and Andreescu - 2017 - Putnam and Beyond.pdf
+:NOTER_PAGE: 1
+:END:
+** second edition
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
