@@ -6,6 +6,10 @@ on:
 jobs:
   main:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+      pages: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -15,5 +19,5 @@ jobs:
         with:
           org-roam-db-filename: org-roam.db
           org-roam-directory: .  # Change this to your org files location if not in root
-          site-title: Rapunzel, Rapunzel let down your hair!  # Optional: customize title
-          deploy-to-pages: true  # Set to true if you want to deploy to GitHub Pages
+          site-title: Rapunzel, Rapunzel let down your hair!
+          deploy-to-pages: true
