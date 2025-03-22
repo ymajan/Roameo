@@ -21,4 +21,3 @@ jobs:
           org-roam-directory: .  # Change this to your org files location if not in root
           site-title: Rapunzel, Rapunzel let down your hair!
           deploy-to-pages: true
-          file-filter: "^(?!.*Annals).*\\.org$"  # Exclude files containing "journal" in their path
