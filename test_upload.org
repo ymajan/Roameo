@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ce43a33f-83a8-467b-a78a-485071478420
+:END:
+#+title: test_upload
+#+filetags: :zygoat:
+* day one!
