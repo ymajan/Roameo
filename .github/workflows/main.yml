@@ -1,0 +1,19 @@
+name: Generate static org-roam-ui page
+on:
+  push:
+    branches:
+      - main
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Generate org-roam-ui page
+        uses: ikoamu/publish-org-roam-ui@v1.5.0
+        with:
+          org-roam-db-filename: org-roam.db
+          org-roam-directory: .  # Change this to your org files location if not in root
+          site-title: Rapunzel, Rapunzel let down your hair!  # Optional: customize title
+          deploy-to-pages: true  # Set to true if you want to deploy to GitHub Pages
