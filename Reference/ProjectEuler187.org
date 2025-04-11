@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       bbb980fe-1124-44cf-8139-40cdf74fc16a
+:ROAM_REFS: @ProjectEuler187
+:END:
+#+title: Project Euler 187
+#+filetags: :zygoat:zotero:math:project-euler:
+#+url: https://projecteuler.net/problem=187
+* first project euler problem
+* Problem Statement
+A composite is a number containing at least two prime factors. For example, 15 = 3 x 3 9 = 3 x 3, 12 = 2 x 2 x 3.
+There are ten composites below thirty containing precisely two, not necessarily distinct, prime factors: 4, 6, 9, 10, 14, 15, 21, 22, 25, 26.
+How many composite integers, n < 10^8, have precisely two, not necessarily distinct, prime factors?
+* Solution
+#+BEGIN_SRC python :results output
+def sieve_of_eratosthenes(limit):
+    is_prime = [True] * (limit + 1)
+    p = 2
+    while (p * p <= limit):
+        if is_prime[p]:
+            for i in range(p * p, limit + 1, p):
+                is_prime[i] = False
+        p += 1
+    return [p for p in range(2, limit + 1) if is_prime[p]]
+
+def count_semiprimes(limit):
+    primes = sieve_of_eratosthenes(limit // 2)
+    semiprime_count = 0
+    for i in range(len(primes)):
+        for j in range(i, len(primes)):
+            if primes[i] * primes[j] < limit:
+                semiprime_count += 1
+            else:
+                break
+    return semiprime_count
+
+limit = 10**8  # Use 10**8 for final result (may take a while)
+semiprime_count = count_semiprimes(limit)
+print(f"Number of semiprimes less than {limit}: {semiprime_count}")
+#+END_SRC
+
+#+RESULTS:
+: Number of semiprimes less than 100000000: 17427258

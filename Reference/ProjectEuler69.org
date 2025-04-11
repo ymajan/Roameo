@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       018eb625-f5fb-4f55-943a-8d211153c569
+:ROAM_REFS: @ProjectEuler69
+:END:
+#+title: Project Euler 69
+#+filetags: :zygoat:zotero:
+#+url: https://projecteuler.net/problem=69
+
+#+begin_src python :results output
+import math
+from fractions import Fraction
+
+def compute():
+    def list_totients(limit):
+        totients = list(range(limit + 1))
+        for i in range(2, limit + 1):
+            if totients[i] == i:
+                for j in range(i, limit + 1, i):
+                    totients[j] -= totients[j] // i
+        return totients
+
+    totients = list_totients(10**6)
+    ans = max(range(2, len(totients)), key=lambda i: Fraction(i, totients[i]))
+    print(ans)
+
+compute()
+#+end_src
+
+#+RESULTS:
+: 510510

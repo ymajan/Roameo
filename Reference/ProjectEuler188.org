@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       5f85842b-775f-4d79-8b8b-6d8322ae6e4b
+:ROAM_REFS: @ProjectEuler188
+:END:
+#+title: Project Euler 188
+#+filetags: :zygoat:zotero:math:project-euler:
+#+url: https://projecteuler.net/problem=188
+* problem statement
+find the last 8 digits of Tetrate[1777,1855]
+* Solution
+
+#+BEGIN_SRC python :results output :exports both
+import math, sys
+
+def compute():
+    x, y, m = 1777, 1855, 10**8
+    sys.setrecursionlimit(y + 30)  # Because the default recursion limit of 1000 is insufficient
+    ans = tetration_mod(x, y, m)
+    return str(ans)
+
+def tetration_mod(x, y, m):
+    if y == 1:
+        return x % m
+    else:
+        return pow(x, tetration_mod(x, y - 1, totient(m)), m)
+
+def totient(n):
+    assert n > 0
+    p = 1
+    i = 2
+    end = math.isqrt(n)
+    while i <= end:
+        if n % i == 0:
+            p *= i - 1
+            n //= i
+            while n % i == 0:
+                p *= i
+                n //= i
+            end = math.isqrt(n)
+        i += 1
+    if n != 1:
+        p *= n - 1
+    return p
+
+print(compute())
+#+END_SRC
+
+#+RESULTS:
+: 95962097
