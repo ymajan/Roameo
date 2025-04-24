@@ -3,7 +3,7 @@
 :ROAM_REFS: @ProjectEuler69
 :END:
 #+title: Project Euler 69
-#+filetags: :zygoat:zotero:
+#+filetags: :Project Euler:Zotero:Math:
 #+url: https://projecteuler.net/problem=69
 
 #+begin_src python :results output

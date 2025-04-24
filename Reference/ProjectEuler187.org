@@ -3,7 +3,7 @@
 :ROAM_REFS: @ProjectEuler187
 :END:
 #+title: Project Euler 187
-#+filetags: :zygoat:zotero:math:project-euler:
+#+filetags: :Project Euler:Math:Zotero:
 #+url: https://projecteuler.net/problem=187
 * first project euler problem
 * Problem Statement

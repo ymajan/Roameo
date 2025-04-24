@@ -3,7 +3,7 @@
 :ROAM_REFS: @nestorBreathNewScience2020
 :END:
 #+title: Nestor, James, Breath: The New Science of a Lost Art
-#+filetags: :zygoat:zotero:
+#+filetags: :Breath:Meditation:Zotero:Zygoat:
 * referred here by monks drying wet sheets in freezing temps with body heat alone: [[https://www.youtube.com/watch?v=S3QU9UvusA0&t=940s][Tibetan Yogis control body temp]]
 * NOTES
 :PROPERTIES:

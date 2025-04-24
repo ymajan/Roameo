@@ -3,7 +3,7 @@
 :ROAM_REFS: @ProjectEuler188
 :END:
 #+title: Project Euler 188
-#+filetags: :zygoat:zotero:math:project-euler:
+#+filetags: :Project Euler:Zotero:Math:
 #+url: https://projecteuler.net/problem=188
 * problem statement
 find the last 8 digits of Tetrate[1777,1855]
