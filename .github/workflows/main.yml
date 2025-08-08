@@ -21,3 +21,4 @@ jobs:
           # org-roam-directory: .  # Change this to your org files location if not in root
           site-title: Rapunzel, Rapunzel let down your hair!
           deploy-to-pages: true
+          default-section-open: false
