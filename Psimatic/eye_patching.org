@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       1f146640-5e32-4b8f-9193-a0a8ed6b5770
-:END:
-#+title: Eye Patching
-#+filetags: :Zygoat:
