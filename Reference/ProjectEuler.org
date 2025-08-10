@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       20d762cc-164a-4f63-bfc9-485e551f99f7
-:ROAM_REFS: @ProjectEuler
-:END:
-#+title: Project Euler
-#+filetags: :Project Euler:Math:Zotero:
-* Resources and Ha to use
-** [[https://github.com/XiaoTaoWang/Project-Euler?utm_source=chatgpt.com][Xiao Tao Wang]]
-** [[https://www.nayuki.io/page/project-euler-solutions][Nayuki]]
