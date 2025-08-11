@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9bf8e67c-80e7-4433-b179-52202b945d4c
+:END:
+#+title: Completion
+#+filetags: :zygoat:
+* Cape VS Capf
