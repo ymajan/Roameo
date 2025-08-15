@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       45ca353e-0bf0-4fec-b892-d26c44b0615b
-:END:
-#+title: Doom Emacs
-#+filetags: :zygoat:
-* Always been evil
-* Modules
-** [[id:9bf8e67c-80e7-4433-b179-52202b945d4c][Completion]]

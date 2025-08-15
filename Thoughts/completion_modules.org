@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1f7f7139-4a34-472f-b76f-a716084b98c0
+:END:
+#+title: Completion Modules
+#+filetags: :zygoat:
+#+url: https://github.com/LuigiPiucco/doom-emacs/tree/master/modules/completion
+* How does Completion Work?
+* Completion Modules Options
+** [[id:91de0a46-c0ae-4c9e-a7a6-159c983e1888][Corfu]]

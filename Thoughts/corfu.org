@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       91de0a46-c0ae-4c9e-a7a6-159c983e1888
+:END:
+#+title: Corfu
+#+filetags: :zygoat:
+#+url: https://github.com/LuigiPiucco/doom-emacs/blob/master/modules/completion/corfu/README.org
+* What is [[https://github.com/minad/corfu][Corfu]] - github corfu repo link
+** Corfu provides code completion, powered by doom-package:corfu
+** COmpletion in Region FUnction
+** In buffer counterpart to [[https://github.com/minad/vertico][Vertico Github Repo]] - github repo link - minibuffer ui
+** it's literally just the code for the popup window
+** back end is powered by capf and [[https://github.com/minad/cape][Cape Github Repo]]
+* alternatives?
+** Company, however corfu is emacs native and lighter
+** Both provide pre configured auto completion
