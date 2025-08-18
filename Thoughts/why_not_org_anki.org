@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3bc22451-411a-4779-b0de-185a6199b9fd
+:END:
+#+title: Why Not Org-Anki?
+#+filetags: :zygoat:
+#+url: https://github.com/eyeinsky/org-anki
+* I tried, I really did, it's much easier to use and more intuitive feeling
+* However, you run into the issue of opening up a note few months later on and asking if you used Org-Anki or [[id:3c0d052c-09b1-45da-b549-cdc191438895][Anki-Editor]]?
+* Anki-Editor has better media support at end of the day, which is a dealbreaker
+* Basically [[https://en.wikipedia.org/wiki/Unix_philosophy][KISS]]
+* DO NOT REPEAT THIS MISTAKE, AND JUST USE [[id:3c0d052c-09b1-45da-b549-cdc191438895][Anki-Editor]]

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8c6aa51e-f812-4fc5-91e8-54bd3f373129
+:END:
+#+title: MacOS Key Binds
+#+filetags: :zygoat:Anki:
+#+url: https://support.apple.com/en-us/102650
+* first test if Anki = anki in tags

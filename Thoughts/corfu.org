@@ -13,3 +13,12 @@
 * alternatives?
 ** Company, however corfu is emacs native and lighter
 ** Both provide pre configured auto completion
+* Packages it pulls in/enables
+** doom-package:corfu
+** doom-package:cape
+** doom-package:nerd-icons-corfu if doom-module::completion corfu +icons
+** doom-package:orderless if doom-module::completion corfu +orderless
+** doom-package:corfu-terminal if doom-module::os tty
+** doom-package:yasnippet-capf if doom-module::editor snippets
+* From Doom Docs
+*

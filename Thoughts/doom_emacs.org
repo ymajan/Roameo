@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5b260887-65a1-42b8-9cfb-01fe0896ae98
+:END:
+#+title: Doom Emacs
+#+filetags: :zygoat:
+* Doooooom the video game

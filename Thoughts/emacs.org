@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4dc863d7-e3b5-46ba-893b-4a3b4232ca51
+:END:
+#+title: Emacs
+#+filetags: :zygoat:
+* The superior alternative. To What? Vim, VS Code, etc. No, the alternative to life.

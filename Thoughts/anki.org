@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       654fb067-d351-41eb-ae79-201a36f6592e
+:END:
+#+title: Anki
+#+filetags: :zygoat:memory:anki:
+* Why should I care?
+** I care about you
+* To defeat exam cramming, just memorize everything before hand, sounds hard, it is hard, and it beats the exam.
+** Total Sustained Actual Effort is still lower than the exam cramming
+However, perceived sustained effort is very high due to discipline needed
+* Addons I Shill
+** [[https://ankiweb.net/shared/info/1771074083][Review Heatmap Link]]
+Github Commits Style Tracker to beat yourself over missed days or celebrate your snap streak with anki
+** [[https://ankiweb.net/shared/info/2055492159][AnkiConnect Link]]
+Expose Anki ports for other programs to things to
+** [[https://ankiweb.net/shared/info/759844606][FSRS Editor Link]]
+Help out the superior SM-2 alternative, 8 core features
+1. Reschedule cards based on their entire review histories.
+2. Postpone a selected number of due cards.
+3. Advance a selected number of undue cards.
+4. Balance the load during rescheduling (based on fuzz).
+5. Less Anki on Easy Days (such as weekends) during rescheduling (based on load balance).
+6. Disperse Siblings (cards with the same note) to avoid interference & reminder.
+7. Flatten future due cards to a selected number of reviews per day.
+8. Steps Stats quantify your short-term memory performance and recommend learning steps.
+
+* How to use with [[id:4dc863d7-e3b5-46ba-893b-4a3b4232ca51][Emacs]], you may ask? Especially [[id:5b260887-65a1-42b8-9cfb-01fe0896ae98][Doom Emacs]]
+** [[id:3c0d052c-09b1-45da-b549-cdc191438895][Anki-Editor]]
+* Check File Tag Anki for examples

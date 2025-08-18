@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3c0d052c-09b1-45da-b549-cdc191438895
+:END:
+#+title: Anki-Editor
+#+filetags: :zygoat:
+#+url: https://github.com/anki-editor/anki-editor?tab=readme-ov-file
+* How to combine two powerful modes for maximal time gone
+* [[id:3bc22451-411a-4779-b0de-185a6199b9fd][Why Not Org-Anki?]] - basically Anki-Editor has better media support and ideally you keep it simple, stupid (I'm pointing at you rn)
+*
