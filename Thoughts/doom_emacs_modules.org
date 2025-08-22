@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       16217ca5-aee0-4222-95a5-9c088a136252
+:ANKI_DECK: Thoughts
 :END:
 #+title: Doom Emacs Modules
 #+filetags: :zygoat:
@@ -7,3 +8,6 @@
 * This aims to be a literate config
 * Always will be a work in progress
 1. [[id:1f7f7139-4a34-472f-b76f-a716084b98c0][Completion Modules]]
+   1. [[id:91de0a46-c0ae-4c9e-a7a6-159c983e1888][Corfu]]
+   2. [[id:3c0f4c9a-8bdc-40bb-ba53-5d4b279b47a9][Vertico]]
+2.

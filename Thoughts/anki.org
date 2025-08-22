@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       654fb067-d351-41eb-ae79-201a36f6592e
+:ANKI_DECK: Thoughts
 :END:
 #+title: Anki
 #+filetags: :zygoat:memory:anki:
@@ -26,4 +27,33 @@ Help out the superior SM-2 alternative, 8 core features
 
 * How to use with [[id:4dc863d7-e3b5-46ba-893b-4a3b4232ca51][Emacs]], you may ask? Especially [[id:5b260887-65a1-42b8-9cfb-01fe0896ae98][Doom Emacs]]
 ** [[id:3c0d052c-09b1-45da-b549-cdc191438895][Anki-Editor]]
-* Check File Tag Anki for examples
+** Also [[id:3bc22451-411a-4779-b0de-185a6199b9fd][Why Not Org-Anki?]]
+* FAQ
+** Tagging
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_TAGS: anki tagging
+:ANKI_NOTE_ID: 1755636263246
+:ANKI_NOTE_HASH: 73990cce1c5f87fc98db127bce4c0a6b
+:END:
+*** Text
+{{c1::lowercase letters, numbers, hyphens, and underscores}} are allowed in an anki tag
+** Tagging Convention
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_TAGS: anki tagging
+:ANKI_DECK: Conventions
+:ANKI_NOTE_ID: 1755636659615
+:ANKI_NOTE_HASH: 6969eb9a8fcb627f85d85da2010701aa
+:END:
+*** Text
+Anki tags should be {{c1::lowercase::(upper/lower/title)case}} and {{c1::underscore-spaced::underscore/hyphen/regular-spaced}}
+** Tag Pages Anki
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1755644658748
+:ANKI_NOTE_HASH: 4e3db023d9b86c14a88f111e7ddd83f9
+:ANKI_DECK: Conventions
+:END:
+*** Text
+Pages with flashcards should be tagged {{c1::anki}}

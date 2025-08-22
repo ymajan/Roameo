@@ -1,0 +1,150 @@
+:PROPERTIES:
+:ID:       3c0f4c9a-8bdc-40bb-ba53-5d4b279b47a9
+:ANKI_DECK: Doom Modules::Vertico
+:END:
+#+title: Vertico
+#+filetags: :zygoat:
+#+url: https://github.com/doomemacs/doomemacs/tree/master/modules/completion/vertico
+* Minibuffer completion module
+counterpart to [[id:91de0a46-c0ae-4c9e-a7a6-159c983e1888][Corfu]]
+* FAQ, more like you gon learn, cus it's all flashcards
+** Go to previous candidate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Back
+C-k
+** Go to next candidate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:END:
+*** Back
+ C-j
+** Go to previous group
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020437
+:ANKI_NOTE_HASH: 767ac4372f66cacd4ba6129b14eba5fe
+:END:
+*** Back
+C-M-k
+** Go to next group
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020441
+:ANKI_NOTE_HASH: 5b8c09e5143b1716d60e000ae1666b3f
+:END:
+*** Back
+C-M-j
+** Open an embark-act menu to chose a useful action
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020444
+:ANKI_NOTE_HASH: 943c31cd8e5e3a0ee51c2e22eb3988ac
+:END:
+*** Back
+C-; or SPC-a
+** Export the current candidate list to a buffer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020446
+:ANKI_NOTE_HASH: 630b38aa4bd4e09a7e2808869213cba6
+:END:
+*** Back
+C-c C-;
+** embark-collect the current candidate list (collect verbatim)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020447
+:ANKI_NOTE_HASH: 1af1fcbf86469af87a7c828be6cf7a49
+:END:
+*** Back
+C-c C-l
+** Preview the current candidate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020449
+:ANKI_NOTE_HASH: a2d2a8abfba7964f65aec16f23d6e5cd
+:END:
+*** Back
+C-SPC
+** Open a vertico minibuffer on embark-act actions
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020451
+:ANKI_NOTE_HASH: 047308590168d5ef6220721054671c68
+:END:
+*** (C-; or SPC-a) C-h
+** Projectile Add Ons
+*** Jump to file in project
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020452
+:ANKI_NOTE_HASH: fdf75c8f9655c9b05fc80f3ab64c6b62
+:END:
+**** Back
+SPC p f, SPC SPC
+*** Jump to file from current directory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020454
+:ANKI_NOTE_HASH: 3cc121cfa68507e9635167baf9abf95e
+:END:
+**** Back
+SPC f f, SPC .
+*** Jump to symbol in file
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020456
+:ANKI_NOTE_HASH: 254be1382696659c991d6b3da32686dc
+:END:
+**** Back
+SPC s i
+** Project search & replace
+*** Search project
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020457
+:ANKI_NOTE_HASH: 64b1ca41537ce6780ae4b95b32803acf
+:END:
+**** Back
+SPC s p
+*** Search another project
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020458
+:ANKI_NOTE_HASH: fe2b9dff423b7b7076f30e9d84404c83
+:END:
+**** Back
+SPC s P
+*** Search this directory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020460
+:ANKI_NOTE_HASH: 6eb8e0edae8cbce5b503aeac338adcc3
+:END:
+**** Back
+SPC s d
+*** Search another directory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725020461
+:ANKI_NOTE_HASH: dab9d48bd7d58d7677e44e1678ec0975
+:END:
+**** Back
+SPC s D
+** Instruct underlying search engine to include ignored files
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755725171080
+:ANKI_NOTE_HASH: 6586a2bad414a381e0d479412064fe1f
+:END:
+*** Back
+Prefix with SPC-u
+** Ex command to search project, option to include hidden files
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:END:
+*** Back

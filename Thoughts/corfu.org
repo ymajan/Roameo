@@ -1,10 +1,12 @@
 :PROPERTIES:
 :ID:       91de0a46-c0ae-4c9e-a7a6-159c983e1888
+:ANKI_DECK: Doom Modules::Corfu
 :END:
 #+title: Corfu
-#+filetags: :zygoat:
+#+filetags: :zygoat:emacs:doom_emacs:anki:
 #+url: https://github.com/LuigiPiucco/doom-emacs/blob/master/modules/completion/corfu/README.org
-* What is [[https://github.com/minad/corfu][Corfu]] - github corfu repo link
+* Certified Backlink: [[id:1f7f7139-4a34-472f-b76f-a716084b98c0][Completion Modules]]
+* What is [[https://github.com/minad/corfu][Corfu Github Repo]]
 ** Corfu provides code completion, powered by doom-package:corfu
 ** COmpletion in Region FUnction
 ** In buffer counterpart to [[https://github.com/minad/vertico][Vertico Github Repo]] - github repo link - minibuffer ui
@@ -20,5 +22,127 @@
 ** doom-package:orderless if doom-module::completion corfu +orderless
 ** doom-package:corfu-terminal if doom-module::os tty
 ** doom-package:yasnippet-capf if doom-module::editor snippets
-* From Doom Docs
-*
+* FAQ
+what have we "learned"?
+** What is Corfu?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755644493979
+:ANKI_NOTE_HASH: a469ab494e38f764a38718875169a523
+:END:
+*** Back
+ In buffer code completion popup helper, vertico counterpart
+ it's just the code for a window to populate capf and cape completions
+** What does Corfu stand for?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755644496447
+:ANKI_NOTE_HASH: 8013fad35b86987d6f3cb96581becfa1
+:END:
+*** Back
+COmpletion in Region FUnction
+** What is Corfu powered by?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755644497472
+:ANKI_NOTE_HASH: a037161df23f6efc391e9f9ca3bed3af
+:END:
+*** Back
+capf and cape
+** When is completion triggered?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755706405014
+:ANKI_NOTE_HASH: f688cb7cabca08fce10503f2125df9eb
+:END:
+*** Back
+2 non-space consecutive characters + (C-SPC or TAB)
+** Keybindings
+*** Go to next candidate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_HASH: 486b16d005e69879394c8c2ff0365bb4
+:ANKI_NOTE_ID: 1755717932037
+:END:
+**** Back
+C-j
+*** Go to previous candidate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_HASH: bcab852f730c9f056816cc52c3fb9064
+:ANKI_NOTE_ID: 1755717947659
+:END:
+**** Back
+C-k
+*** Go to next doc line
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_HASH: 5e6ed9203772266b0cd5f21db8b67c7f
+:ANKI_NOTE_ID: 1755714423032
+:END:
+**** Back
+C-S-j
+*** Go to previous doc line
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_HASH: a6c8d355e76c5d4a941f79bbf06a2cdc
+:ANKI_NOTE_ID: 1755714488107
+:END:
+**** Back
+C-S-k
+*** Export to minibuffer
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755710189322
+:ANKI_NOTE_HASH: 396dc9506e8b16bbad38fea002011ce6
+:END:
+**** Back
+C-S-'s'
+*** Go to next candidate page
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755710189326
+:ANKI_NOTE_HASH: 825fc407bb911d65e0d33346fce1cde8
+:END:
+**** Back
+C-u
+*** Go to previous candidate page
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755710189327
+:ANKI_NOTE_HASH: 120a094fe854a6b835659fb11183d309
+:END:
+**** Back
+C-d
+*** Toggle documentation (if available)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1755710189329
+:ANKI_NOTE_HASH: 55dfa8386157a56e030ba874ffd334e7
+:END:
+**** Back
+C-h
+*** Tab cycle forward/back?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755714645506
+:ANKI_NOTE_HASH: fa0f86c66cdbf89ad3fec2ae5fc8b32b
+:END:
+**** Back
+TAB/S-TAB
+*** How to search across multiple keywords?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755719405183
+:ANKI_NOTE_HASH: 77c8f095a6efa3b7385701e2bfba1a35
+:END:
+**** Back
+regexp and C-SPC via orderless
+*** What does C-SPC do?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1755719412055
+:ANKI_NOTE_HASH: dbd8add981438aaebd73384bfe0b4f2a
+:END:
+**** Back
+insert space separator in completion matching

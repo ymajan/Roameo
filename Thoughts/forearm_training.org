@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       23dca85f-b6ba-4a10-99bd-53063e7c9159
+:ANKI_DECK: Thoughts
+:END:
+#+title: Forearm Training
+#+filetags: :zygoat:
+* What are the movements to train forearms through?
+1. Flexion - palms going down
+2. Extension - palms going up
+3. Radial Deviation - Handshake to point up
+4. Ulner Deviation - Handshake to point down
+5. Pronation - Palms up to palms down
+6. Supination - Palms down to palms up

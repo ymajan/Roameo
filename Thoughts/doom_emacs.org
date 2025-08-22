@@ -1,6 +1,19 @@
 :PROPERTIES:
 :ID:       5b260887-65a1-42b8-9cfb-01fe0896ae98
+:ANKI_DECK: Emacs::Doom
 :END:
 #+title: Doom Emacs
 #+filetags: :zygoat:
 * Doooooom the video game
+* What is doom emacs?
+** emacs + vim bindings + spice and everything nice
+* How does it run?
+** idk man still figuring it out
+* How do I configure this jit?
+** modify your doom config - [[https://github.com/ymajan/dotfiles/tree/main/doom][Dippin to my Doom Dots]]
+*** [[https://github.com/ymajan/dotfiles/blob/main/doom/config.el][config.el]]
+*** [[https://github.com/ymajan/dotfiles/blob/main/doom/init.el][init.el]]
+*** [[https://github.com/ymajan/dotfiles/blob/main/doom/packages.el][packages.el]]
+** This doesn't explain anything
+*** ok ok, here this will definitely clear your confusions and help!
+*** [[id:16217ca5-aee0-4222-95a5-9c088a136252][Doom Emacs Modules]]

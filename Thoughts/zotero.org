@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       f15d62c6-ba81-4a24-9e48-2fcfbadbc4a1
+:ANKI_DECK: Thoughts
+:END:
+#+title: Zotero
+#+filetags: :zygoat:reference_management:anki:
+* Freeware reference manager
+* FAQ
+** Tagging
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_TAGS: tagging reference_management zotero
+:ANKI_NOTE_HASH: a628c95276707599b5fe26a8c2d487f8
+:ANKI_NOTE_ID: 1755635619298
+:END:
+*** Text
+Zotero tags are case-{{c1::sensitive::(in)sensitive}}
+** Tagging Conventions
+:PROPERTIES:
+:ANKI_DECK: Conventions
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_TAGS: tagging reference_management zotero
+:ANKI_NOTE_HASH: bb8961ccf5ee42bcda319f59841ca898
+:ANKI_NOTE_ID: 1755635623698
+:END:
+*** Text
+Zotero tags should be {{c1::lowercased::(lower/upper/title)cased}} and {{c1::underscore-spaced::underscore/hyphenate/regular-spaced}}

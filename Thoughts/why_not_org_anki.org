@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       3bc22451-411a-4779-b0de-185a6199b9fd
+:ANKI_DECK: Thoughts
 :END:
 #+title: Why Not Org-Anki?
 #+filetags: :zygoat:

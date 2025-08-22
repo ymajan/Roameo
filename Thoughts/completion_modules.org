@@ -1,9 +1,12 @@
 :PROPERTIES:
 :ID:       1f7f7139-4a34-472f-b76f-a716084b98c0
+:ANKI_DECK: Thoughts
 :END:
 #+title: Completion Modules
 #+filetags: :zygoat:
 #+url: https://github.com/LuigiPiucco/doom-emacs/tree/master/modules/completion
 * How does Completion Work?
 * Completion Modules Options
-** [[id:91de0a46-c0ae-4c9e-a7a6-159c983e1888][Corfu]]
+** [[id:91de0a46-c0ae-4c9e-a7a6-159c983e1888][Corfu Roam Notes]] and [[https://github.com/doomemacs/doomemacs/tree/master/modules/completion/corfu][doom docs]]
+** [[id:3c0f4c9a-8bdc-40bb-ba53-5d4b279b47a9][Vertico Roam Notes]] and [[https://github.com/doomemacs/doomemacs/tree/master/modules/completion/vertico][doom docs]]
+**
