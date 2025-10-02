@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       be5133d0-30fa-4260-af21-c70dc1ba2db9
+:ANKI_DECK: FAQ
+:END:
+#+title: Quantified Self
+#+filetags: :zygoat:health:
+* Goal: Optimize healthspan
+* Metrics I'll track and how
+* Physiologic (Whoop)
+** RHR
+** Estimated Blood Pressure
+** HRV
+** Respiratory Rate
+** Skin Temp from baseline
+* Habits Currently tracked
+** Meds ( AM / PM )
+** Meditation
+** Stretching
+** Zone 2 Cardio
+** Intermittent Fasting
+** Cold Shower
+* To Add
+** Clean Eating
+** Morning / Evening Meditation
+** Morning / Evening Hot / Cold Shower
+** Nicotine or Tobacco
+** Caffeine
+** Other drugs ( Mary Jane / LSD / Shrooms )
+** Sauna
+** Compression Therapy
+** Accupuncture
+** Sun face on wake
+** Medications and Supplements ( experimental )
+** Food Cravings
+** Brain Fog
+** Libido
+** Air Travel
+** Motivation and Emotional State
+** Diet ( Veg vs Vegan vs Keto Veg ? )
+** Calorie Breakdown
+** PEMF mat
+** Red Light
+** Vagus Nerve
+**

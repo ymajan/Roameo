@@ -1,38 +1,10 @@
 :PROPERTIES:
 :ID:       4dc863d7-e3b5-46ba-893b-4a3b4232ca51
-:ANKI_DECK: Thoughts
+:ANKI_DECK: Emacs
 :END:
 #+title: Emacs
-#+filetags: :zygoat:anki:
-* The superior alternative. To What? Vim, VS Code, etc. No, the alternative to life.
-* If you made it here all you need to know now is [[id:5b260887-65a1-42b8-9cfb-01fe0896ae98][Doom Emacs]] = 42
-* FAQ
-** Tagging
-*** Case Sensitivity
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Cloze
-:ANKI_TAGS: tagging emacs
-:ANKI_NOTE_HASH: 754e7ddaa6049934caebce6d8818b2bb
-:ANKI_NOTE_ID: 1755635724052
-:END:
-**** Text
-Emacs tags are case-{{c1::sensitive::(in)sensitive}}.
-*** Space Sensitivity
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Cloze
-:ANKI_NOTE_HASH: 0fe686e7a23aa0b0cfc473d1d9c7a87c
-:ANKI_NOTE_ID: 1755635735571
-:ANKI_TAGS: tagging emacs
-:END:
-**** Text
-Spaces in Emacs tags are {{c1::not allowed}}.
-*** Tagging convention that works across [[id:f15d62c6-ba81-4a24-9e48-2fcfbadbc4a1][Zotero]] and [[id:654fb067-d351-41eb-ae79-201a36f6592e][Anki]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Cloze
-:ANKI_NOTE_HASH: 870a255c8a03bcd122989db6cee854e4
-:ANKI_DECK: Conventions
-:ANKI_TAGS: tagging emacs
-:ANKI_NOTE_ID: 1755635949520
-:END:
-**** Text
-Emacs tags should be {{c1::lowercase::(upper/lower/title)case}} and {{c1::underscore-spaced::(hyphen/underscore/regular)-spaced}}.
+#+filetags: :zygoat:emacs:
+* The superior alternative. To What? Vim, VS Code, etc. No, to life.
+* Also check out [[id:5b260887-65a1-42b8-9cfb-01fe0896ae98][Doom Emacs]]
+* MacOS Help
+** [[https://github.com/railwaycat/homebrew-emacsmacport/blob/master/docs/emacs-start-helpers.md][Application Folder Link]]

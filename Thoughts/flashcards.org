@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       28bb1d9c-8c96-4f96-91c3-c05135cdee50
+:ANKI_DECK: FAQ
+:END:
+#+title: Flashcards
+#+filetags: :zygoat:
+*

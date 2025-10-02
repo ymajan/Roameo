@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       b5514cea-8c78-41f4-a7bc-47e2bed6ba03
+:ANKI_DECK: Convention
+:END:
+#+title: Convention
+#+filetags: :zygoat:flashcards:
+* "Where there is no law, there is no freedom." - John Locke
+* What this effects?
+** [[id:bbf1af25-8353-40bd-8d4e-c0c79e55863d][Software I Shill]]
+* Tag format? :card:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_HASH: c07842636801becf85394ef8544ac8d6
+:ANKI_NOTE_ID: 1757367804881
+:END:
+** Back
+lowercased_and_underscored
+* Flashcards tag :card:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_HASH: 0689c13a4cf378f657d8255fe68bd0ad
+:ANKI_NOTE_ID: 1757367808443
+:END:
+** Text
+Tag files with anki cards, {{c1::flashcards}}
+* Card tag :card:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_HASH: 146ae8b31a7b0068e5c909a3e9ac650d
+:ANKI_NOTE_ID: 1757367810665
+:END:
+** Text
+Tag flashcard headlines, {{c1::card}}

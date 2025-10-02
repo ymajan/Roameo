@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bbf1af25-8353-40bd-8d4e-c0c79e55863d
+:ANKI_DECK: FAQ
+:END:
+#+title: Software I Shill
+#+filetags: :zygoat:
+* [[id:654fb067-d351-41eb-ae79-201a36f6592e][Anki]]
+* [[id:4dc863d7-e3b5-46ba-893b-4a3b4232ca51][Emacs]] -> [[id:5b260887-65a1-42b8-9cfb-01fe0896ae98][Doom Emacs]]
+* [[id:f15d62c6-ba81-4a24-9e48-2fcfbadbc4a1][Zotero]]
+*

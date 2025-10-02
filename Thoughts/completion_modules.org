@@ -9,4 +9,3 @@
 * Completion Modules Options
 ** [[id:91de0a46-c0ae-4c9e-a7a6-159c983e1888][Corfu Roam Notes]] and [[https://github.com/doomemacs/doomemacs/tree/master/modules/completion/corfu][doom docs]]
 ** [[id:3c0f4c9a-8bdc-40bb-ba53-5d4b279b47a9][Vertico Roam Notes]] and [[https://github.com/doomemacs/doomemacs/tree/master/modules/completion/vertico][doom docs]]
-**

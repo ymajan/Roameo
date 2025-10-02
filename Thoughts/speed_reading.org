@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       8e3a64d4-c092-4113-af79-d214fa5eda70
+:ANKI_DECK: FAQ
+:END:
+#+title: Speed Reading
+#+filetags: :zygoat:
+* Spreeder 7 Speed Course Notes
+** Module 1
+*** Skim before you read
+**** Wave motion, sweep down the pages with four fingers on it
+***** Notice something in each paragraph
+****** 68% beginning, 32% end
+**** After wave -> diagonals, aim for speed, about 5 slants per page
+**** After slants -> brushing with fingers ( longer lines ) or tapping (shorter lines ), about 3 seconds per line
+***** Point finger below line or along column to focus attention, this will minimize regression
+*** Reduce subvocalization
+**** subvocalize only key words, people, places, things
+**** Fill mind with other words ( focus, concentrate, understand ), or white noise
+*** Set time limits on reading
+**** could even be sections, or 10-15 min read and think
+*** How to read business or academic papers
+**** Read the same text multiple times but quickly and accumulate more knowledge each time
+**** Use SQ3R
+***** S - Skimming
+***** Q - Question
+***** R - Read
+***** R - Report
+***** R - Review
+**** Skim and Question
+***** What are the key ideas?
+***** How much detail do I need?
+***** What's my purpose for reading?
+***** Pay attention to Introduction, Summary, and Conclusions
+***** Intention determines Attention
+**** Report
+***** 50% of the time should be spent in active recall
+***** Report to yourself what you understood
+**** Review
+***** Go back over it at a later date
+***** Talk about it with someone
+*** Negatives often trip us up
+**** Skim twice
+***** Once for negatives
+***** Second for skim
+***** Then comprehension
+*** How to remember what you read?
+**** Branch recal pattern
+***** Move from main idea to sub ideas and facts, mind map
+****

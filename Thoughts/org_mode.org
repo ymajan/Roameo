@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       aadcef6a-b50a-4feb-a75e-ec874374d459
+:ANKI_DECK: FAQ
+:END:
+#+title: Org-mode
+#+filetags: :zygoat:emacs:
+#+url: https://docs.doomemacs.org/latest/modules/lang/org/
+* your life in emacs
+* FAQ
+*** Case Sensitivity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_HASH: e00490627a62066b815cad927e246bc9
+:ANKI_NOTE_ID: 1756837949317
+:END:
+**** Text
+Org-mode tags are case-{{c1::sensitive::(in)sensitive}}.
+*** Space Sensitivity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_HASH: eb2e35ff2bd7134ffc0fc261f8565a21
+:ANKI_NOTE_ID: 1756837949320
+:END:
+**** Text
+Spaces in org-mode tags are {{c1::not allowed}}.
+*** Tagging convention that works with [[id:f15d62c6-ba81-4a24-9e48-2fcfbadbc4a1][Zotero]] and [[id:654fb067-d351-41eb-ae79-201a36f6592e][Anki]] :convention:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_HASH: ba4d24d26b8f1bcffc9cf452aed87fd5
+:ANKI_DECK: Conventions
+:ANKI_NOTE_ID: 1756837863431
+:END:
+**** Text
+Org-mode tags should be {{c1::lower::(upper/lower/title)}}cased and {{c1::underscore::(hyphen/underscore/regular)}}-spaced.

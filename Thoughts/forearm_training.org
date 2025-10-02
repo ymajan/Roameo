@@ -4,6 +4,7 @@
 :END:
 #+title: Forearm Training
 #+filetags: :zygoat:
+#+url: https://claude.ai/chat/61d35644-dad8-4d14-afab-cbd85b853328
 * What are the movements to train forearms through?
 1. Flexion - palms going down
 2. Extension - palms going up
@@ -11,3 +12,5 @@
 4. Ulner Deviation - Handshake to point down
 5. Pronation - Palms up to palms down
 6. Supination - Palms down to palms up
+*
+*

@@ -2,7 +2,7 @@
 :ID:       16217ca5-aee0-4222-95a5-9c088a136252
 :ANKI_DECK: Thoughts
 :END:
-#+title: Doom Emacs Modules
+#+title: Doom Modules
 #+filetags: :zygoat:
 #+url: https://github.com/LuigiPiucco/doom-emacs/tree/master/modules
 * This aims to be a literate config
